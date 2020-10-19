@@ -12,8 +12,8 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'newdjangoid@gmail.com'
-EMAIL_HOST_PASSWORD = 'Strongpassword'
+EMAIL_HOST_USER = 'your_email_id'
+EMAIL_HOST_PASSWORD = 'your_password'
 EMAIL_PORT = 587
 
 import os
